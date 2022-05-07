@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @Muhammad-Ali-12
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning Java,C#,Python,Swift and many more!
-- 💞️ I’m looking to collaborate with Google or Apple.
-- 📫 Contact me via mail: muhammad.ali.abdul.12@outlook.com
+ <font size=1> This is my text number1</font> 
 
-<!---
-Muhammad-Ali-12/Muhammad-Ali-12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+ <font size="2"> This is my text number 2 </font>
