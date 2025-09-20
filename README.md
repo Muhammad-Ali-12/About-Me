@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Muhammad Ali!</h1>
-<h3 align="center">Just a 12 year old who loves coding.</h3>
+<h3 align="center">I like coding, aviation and anime.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammad-ali-12&label=Profile%20views&color=0e75b6&style=flat" alt="muhammad-ali-12" /> </p>
 
-- 🔭 I’m currently working on **a database project for learning and fun.**
+- 🔭 I’m currently working on **a game in GODOT.**
 
-- 🌱 I’m currently learning **C++ and Python.**
-
-- 👯 I’m looking to collaborate on **some big company like Google or Apple.**
+- 🌱 I’m currently learning **GODOT, Front-End Web Development.**
 
 - 📫 How to reach me **muhammad.ali.abdul.12@outlook.com**
 
